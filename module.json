@@ -1,0 +1,36 @@
+{
+  "id": "usr-victoria",
+  "title": "USR Victoria",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Niklas Schönberg",
+      "email": "niklas@foonly.dev",
+      "url": "https://foonly.dev",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/foonly/usr-victoria",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "pack-gear-1860",
+      "label": "Gear 1860",
+      "path": "packs/pack-gear-1860",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "usr",
+      "flags": {}
+    }
+  ],
+  "description": "<p>A collection of resources for a Victorian Scenario using USR.</p>"
+}
