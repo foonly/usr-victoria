@@ -1,6 +1,12 @@
 # Changelog
 
-### 1.0.1
+### 1.0.2 (2026-07-02)
+
+#### Maintenance
+
+- config: add manifest and download fields to module.json (6379452)
+
+### v1.0.1 (2026-07-02)
 
 #### Continuous Integration
 
