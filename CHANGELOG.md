@@ -1,6 +1,12 @@
 # Changelog
 
-### 1.0.2 (2026-07-02)
+### 1.0.3 (2026-07-02)
+
+#### Maintenance
+
+- module: update download URL to correct filename (fa80703)
+
+### v1.0.2 (2026-07-02)
 
 #### Maintenance
 
